@@ -1,4 +1,4 @@
-# RGBit!
-<p align="center"> 
+<p align="center">
+ # RGBit!
 <img src="https://raw.githubusercontent.com/man0s/RGBit/master/logo.png">
 </p>
