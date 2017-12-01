@@ -78,3 +78,12 @@ button:hover {
 	background-color: steelblue;
 	color: white;
 }
+
+#headertext {
+	font-size: 2vw;
+}
+
+img {
+	height: 10%;
+	width: 10%;
+}
