@@ -5,4 +5,4 @@
 <p align="center"><b>Try to guess the right color for the RGB code that shows up!</b></p>
 <br>
 <p align="center">This game made with a bit of HTML, CSS and JavaScript..</p>
-<p align="center">You can play it right <link href="https://man0s.github.io/RGBit/">here</link>!</p>
+<p align="center">You can play it right <a href="https://man0s.github.io/RGBit/">here</a>!</p>
