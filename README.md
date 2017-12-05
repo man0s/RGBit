@@ -10,4 +10,4 @@
 </i>
 
 # License
-MIT © Emmanouil Katefidis
+MIT© <a href="https://github.com/man0s">Emmanouil Katefidis</a>
